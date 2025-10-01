@@ -1,0 +1,35 @@
+poem_id,couplet_id,line_id,poet,era,form,line_text,source,line_norm,label
+mir_001,1,a,Mir Taqi Mir,18th century,ghazal,پاتا نہیں ہوں کہیں دل کو قرار کہیں,public_domain,پاتا نہیں ہوں کہیں دل کو قرار کہیں,1
+mir_001,1,b,Mir Taqi Mir,18th century,ghazal,دھوپ چھاؤں میں جیتا ہوں میں سارے دن,public_domain,دھوپ چھاؤں میں جیتا ہوں میں سارے دن,1
+mir_001,2,a,Mir Taqi Mir,18th century,ghazal,میرے دل کے شہر میں اندھیری رات ہے,public_domain,میرے دل کے شہر میں اندھیری رات ہے,1
+mir_001,2,b,Mir Taqi Mir,18th century,ghazal,نہ کوئی دوست ہے نہ کوئی رفیق ہے,public_domain,نہ کوئی دوست ہے نہ کوئی رفیق ہے,1
+ghalib_001,1,a,Mirza Ghalib,19th century,ghazal,ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے,public_domain,ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے,1
+ghalib_001,1,b,Mirza Ghalib,19th century,ghazal,بہت نکلے میرے ارمان لیکن پھر بھی کم نکلے,public_domain,بہت نکلے میرے ارمان لیکن پھر بھی کم نکلے,1
+ghalib_001,2,a,Mirza Ghalib,19th century,ghazal,دل ہی تو ہے نہ سنگ و خشت درد سے بھر نہ آئے کیوں,public_domain,دل ہی تو ہے نہ سنگ و خشت درد سے بھر نہ آئے کیوں,1
+ghalib_001,2,b,Mirza Ghalib,19th century,ghazal,روئیں گے ہم ہزار بار کوئی ہمیں ستائے کیوں,public_domain,روئیں گے ہم ہزار بار کوئی ہمیں ستائے کیوں,1
+ghalib_001,3,a,Mirza Ghalib,19th century,ghazal,ہستی کا اثبات کچھ اور بھی ہے,public_domain,ہستی کا اثبات کچھ اور بھی ہے,1
+ghalib_001,3,b,Mirza Ghalib,19th century,ghazal,دل کو بہلانے کے لیے کچھ خواب ہوں بھی ہیں,public_domain,دل کو بہلانے کے لیے کچھ خواب ہوں بھی ہیں,1
+ghalib_001,4,a,Mirza Ghalib,19th century,ghazal,دوا ہے غم کی دوا کہاں,public_domain,دوا ہے غم کی دوا کہاں,1
+ghalib_001,4,b,Mirza Ghalib,19th century,ghazal,دوا کہ ہم کو تجھ سے وفا کہاں,public_domain,دوا کہ ہم کو تجھ سے وفا کہاں,1
+mir_002,1,a,Mir Taqi Mir,18th century,ghazal,پتا پتا، بوٹا بوٹا حال ہمارا جانے ہے,public_domain,پتا پتا، بوٹا بوٹا حال ہمارا جانے ہے,1
+mir_002,1,b,Mir Taqi Mir,18th century,ghazal,جانے نہ جانے گل ہی نہ جانے باغ تو سارا جانے ہے,public_domain,جانے نہ جانے گل ہی نہ جانے باغ تو سارا جانے ہے,1
+mir_002,2,a,Mir Taqi Mir,18th century,ghazal,عاشقی صبر طلب اور تمنا بے تاب ہے,public_domain,عاشقی صبر طلب اور تمنا بے تاب ہے,1
+mir_002,2,b,Mir Taqi Mir,18th century,ghazal,دل کا کیا رنگ کروں خون جگر ہونے تک,public_domain,دل کا کیا رنگ کروں خون جگر ہوںے تک,1
+mir_002,3,a,Mir Taqi Mir,18th century,ghazal,چپ ہیں ذرہ ذرہ بکھرے ہوئے، ہوا کے گیت سن رہے,public_domain,چپ ہیں ذرہ ذرہ بکھرے ہوئے، ہوا کے گیت سن رہے,1
+mir_002,3,b,Mir Taqi Mir,18th century,ghazal,دل کی صدا ہے کوئی، سن لے صدا کے قصے,public_domain,دل کی صدا ہے کوئی، سن لے صدا کے قصے,1
+mir_002,4,a,Mir Taqi Mir,18th century,ghazal,دل میں اک لہر سی سی رہی ہے,public_domain,دل میں اک لہر سی سی رہی ہے,1
+mir_002,4,b,Mir Taqi Mir,18th century,ghazal,اک موج سی بہہ رہی ہے,public_domain,اک موج سی بہہ رہی ہے,1
+sauda_001,1,a,Sauda,18th century,ghazal,باز آئے نہ رہے مرتا ہوں کیوں,public_domain,باز آئے نہ رہے مرتا ہوں کیوں,1
+sauda_001,1,b,Sauda,18th century,ghazal,موت سے بھی بڑھ کے ہے فنا کا ڈر,public_domain,موت سے بھی بڑھ کے ہے فنا کا ڈر,1
+sauda_001,2,a,Sauda,18th century,ghazal,بزم میں خالی ہیں نالہ و فغاں کے سوا,public_domain,بزم میں خالی ہیں نالہ و فغاں کے سوا,1
+sauda_001,2,b,Sauda,18th century,ghazal,آئے ہے زخم دل میں ایسے جہاں کے,public_domain,آئے ہے زخم دل میں ایسے جہاں کے,1
+iqbal_001,1,a,Allama Iqbal,20th century,nazm,ستاروں سے آگے جہاں اور بھی ہیں,public_domain,ستاروں سے آگے جہاں اور بھی ہیں,1
+iqbal_001,1,b,Allama Iqbal,20th century,nazm,ابھی عشق کے امتحاں اور بھی ہیں,public_domain,ابھی عشق کے امتحاں اور بھی ہیں,1
+iqbal_001,2,a,Allama Iqbal,20th century,nazm,خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے,public_domain,خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے,1
+iqbal_001,2,b,Allama Iqbal,20th century,nazm,خدا بندے سے خود پوچھے بتا تیری رضا کیا ہے,public_domain,خدا بندے سے خود پوچھے بتا تیری رضا کیا ہے,1
+bulleh_001,1,a,Bulleh Shah,18th century,kafi,بول کہ لب آزاد ہیں تیرے,public_domain,بول کہ لب آزاد ہیں تیرے,1
+bulleh_001,1,b,Bulleh Shah,18th century,kafi,بول زباں اب تک تیری ہے,public_domain,بول زباں اب تک تیری ہے,1
+bulleh_001,2,a,Bulleh Shah,18th century,kafi,مٹی دی لو دا پہر آیا,public_domain,مٹی دی لو دا پہر آیا,1
+bulleh_001,2,b,Bulleh Shah,18th century,kafi,رات دی واری دا سہر آیا,public_domain,رات دی واری دا سہر آیا,1
+bulleh_001,3,a,Bulleh Shah,18th century,kafi,ساون دیاں راتاں تے گونج دے بول,public_domain,ساون دیاں راتاں تے گونج دے بول,1
+bulleh_001,3,b,Bulleh Shah,18th century,kafi,گھر دیواں دیاں مٹیاں ہون والیاں,public_domain,گھر دیواں دیاں مٹیاں ہوں والیاں,1
