@@ -1,26 +1,21 @@
-Sure! Here's a full `README.md` for your **urdu-poetry-transformers** project, with clear step-by-step instructions on setup, running each script, and the overall pipeline flow.
-
----
-
-```markdown
+````markdown
 # Urdu Poetry Transformers
 
 This repository provides a complete pipeline for building compact transformer models to analyze classical Urdu poetry. The pipeline includes:
 
-- Data ingestion from raw text files
-- Text normalization and cleaning
-- Training a SentencePiece tokenizer on normalized data
-- Annotation UI for linguistic features (meter, rhyme, metaphor, affect)
-- Training compact transformer classifiers on annotated data
-- Evaluation and error analysis
-- Starter outline and text for academic publication
+- Data ingestion from raw text files  
+- Text normalization and cleaning  
+- Training a SentencePiece tokenizer on normalized data  
+- Annotation UI for linguistic features (meter, rhyme, metaphor, affect)  
+- Training compact transformer classifiers on annotated data  
+- Evaluation and error analysis  
+- Starter outline and text for academic publication  
 
 ---
 
 ## Project Structure
 
-```
-
+```text
 urdu-poetry-transformers/
 ├─ data/
 │  ├─ raw/                # Raw Urdu poetry text files (.txt)
@@ -40,7 +35,6 @@ urdu-poetry-transformers/
 ├─ README.md              # This file
 ├─ requirements.txt       # Python dependencies
 └─ .gitignore             # Git ignore config
-
 ````
 
 ---
@@ -50,7 +44,7 @@ urdu-poetry-transformers/
 ### 1) Clone the repo and create virtual environment
 
 ```bash
-git clone <epo-url>
+git clone <repo-url>
 cd urdu-poetry-transformers
 
 # Create Python virtual environment (Python 3.9+ required)
@@ -65,7 +59,7 @@ source venv/bin/activate
 # Upgrade pip and install dependencies
 pip install --upgrade pip
 pip install -r requirements.txt
-````
+```
 
 ---
 
@@ -128,7 +122,11 @@ streamlit run src/annotation_ui.py
 
 ---
 
-<!-- Note: if ""Not enough labeled data to train/test split. Please add more annotations.")" run Create_pilot_annotation.py file from root folder -->
+**Note:** If you see
+`Not enough labeled data to train/test split. Please add more annotations.`
+→ run `Create_pilot_annotation.py` from the root folder.
+
+---
 
 ### 7) Train a compact transformer classifier
 
@@ -181,8 +179,4 @@ Please open issues or pull requests for bug fixes, new features, or help.
 Happy Urdu poetry modeling! 🌹📜
 
 ```
-
----
-
-If you want, I can also generate the **annotation_guidelines.md** or a **detailed paper draft** next. Just let me know!
 ```
