@@ -1,15 +1,14 @@
-````markdown
 # Urdu Poetry Transformers
 
 This repository provides a complete pipeline for building compact transformer models to analyze classical Urdu poetry. The pipeline includes:
 
-- Data ingestion from raw text files  
-- Text normalization and cleaning  
-- Training a SentencePiece tokenizer on normalized data  
-- Annotation UI for linguistic features (meter, rhyme, metaphor, affect)  
-- Training compact transformer classifiers on annotated data  
-- Evaluation and error analysis  
-- Starter outline and text for academic publication  
+- Data ingestion from raw text files
+- Text normalization and cleaning
+- Training a SentencePiece tokenizer on normalized data
+- Annotation UI for linguistic features (meter, rhyme, metaphor, affect)
+- Training compact transformer classifiers on annotated data
+- Evaluation and error analysis
+- Starter outline and text for academic publication
 
 ---
 
@@ -35,7 +34,7 @@ urdu-poetry-transformers/
 ├─ README.md              # This file
 ├─ requirements.txt       # Python dependencies
 └─ .gitignore             # Git ignore config
-````
+```
 
 ---
 
@@ -166,7 +165,7 @@ python src/eval.py
 ## Paper and Guidelines
 
 * Annotation guidelines draft: `paper/annotation_guidelines.md`
-* Manuscript starter: `paper/draft.md`
+* Published paper: see **Citation** below
 
 ---
 
@@ -178,5 +177,14 @@ Please open issues or pull requests for bug fixes, new features, or help.
 
 Happy Urdu poetry modeling! 🌹📜
 
-```
-```
+---
+
+## Citation
+
+If you use this code, corpus, or annotation schema, please cite the published paper:
+
+> Meghwar, A., & Nasir, M. S. (2025). Compact Transformer Models for Classical Urdu Poetry: A Computational Stylistics Approach. *CORPORUM: Journal of Corpus Linguistics*, 8(2), 71–89. https://journals.au.edu.pk/ojscrc/index.php/crc/article/view/371
+
+## License
+
+Released under the MIT License — see [LICENSE](LICENSE).
